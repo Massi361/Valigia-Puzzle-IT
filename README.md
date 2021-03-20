@@ -1,6 +1,8 @@
 # Valigia Puzzle IT
 Questo è un progetto per la creazione di una "valigetta" puzzle, utilizzando Arduino (in particolare "Arduino Mega or Mega 2560").
 
+This project is in Italian. The English translation will be available as soon as possible.
+
 ## Materiali e collegamenti
 All'interno della cartella si trova tutta la documentazione di quali componenti bisogna utilizzare (componenti.xlsx) ed eventualmente i link per comprarli, inoltre è presente un file contenente tutti i pin dell'Arduino e cosa ci va collegato in ognuno di essi (collegamenti.xlsx). Inoltre, sempre nella stessa cartella è presente il manuale per capire come funziona il gioco (Manuale.dock).
 
