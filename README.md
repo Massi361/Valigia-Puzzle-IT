@@ -25,7 +25,7 @@ Che tu abbia installato l'IDE nel sito ufficiale o nel Microsoft Store, non devi
 
 1- Crea un nuovo progetto.
 
-2- Coppia il contenuto del file .cpp ed incollalo nel nuovo progetto che hai creato.
+2- Coppia il contenuto del file valigaPuzzle.cpp ed incollalo nel nuovo progetto che hai creato.
 
 3- Installa le librerie necessarie per il corretto funzionamento del codice, se preferisci nella (cartella) sono presenti i file.zip delle varie librerie da installare.
 
@@ -46,7 +46,7 @@ Per l'installazione di Platformio in Visual Studio Code, basta andare nel sito u
 
 4- Nel rettangolo a destra, vai nella cartella src e apri il file main.cpp
 
-5- Cancella tutto il contenuto, coppia il contenuto nel file .cpp ed incolla nel file main.cpp del progetto.
+5- Cancella tutto il contenuto, coppia il contenuto nel file valigaPuzzle.cpp ed incolla nel file main.cpp del progetto.
 
 6- Infine carica il codice nell'Arduino premendo il tasto della freccia che va verso sinistra (si trova sotto nel rettangolo blu), se tutto va bene non dovrebbero esserci errori.
 
