@@ -18,7 +18,7 @@ Il secondo puzzle è un lettore di tessere magnetiche, il quale viene usato per 
 Il terzo puzzle sono tre potenziometri, i quali vengono usati per indicare se essi sono stati posizionati nel range impostato dal "proprietario" (maggiori dettagli nella documentazione e nel manuale).
 
 ## Installazione
-Per installare e caricare il file .cpp ci sono due metodi:
+Per installare e caricare il file valigaPuzzle.cpp ci sono due metodi:
 
 ### Arduino IDE
 Che tu abbia installato l'IDE nel sito ufficiale o nel Microsoft Store, non devi fare altro che:
