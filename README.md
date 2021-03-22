@@ -4,7 +4,7 @@ Questo è un progetto per la creazione di una "valigetta" puzzle, utilizzando Ar
 This project is in Italian. The English translation will be available as soon as possible.
 
 ## Materiali e collegamenti
-All'interno della cartella si trova tutta la documentazione di quali componenti bisogna utilizzare (componenti.xlsx) ed eventualmente i link per comprarli, inoltre è presente un file contenente tutti i pin dell'Arduino e cosa ci va collegato in ognuno di essi (collegamenti.xlsx). Inoltre, sempre nella stessa cartella è presente il manuale per capire come funziona il gioco (Manuale.dock).
+All'interno di questo progetto si trova tutta la documentazione di quali componenti bisogna utilizzare (componenti.xlsx) ed eventualmente i link per comprarli, inoltre è presente un file contenente tutti i pin dell'Arduino e cosa ci va collegato in ognuno di essi (collegamenti.xlsx). In più è presente il manuale per capire come funziona il gioco (Manuale.dock).
 
 ## Puzzle
 In questo progetto sono stati introdotti tre puzzle ed essi sono i seguenti:
@@ -26,7 +26,7 @@ Che tu abbia installato l'IDE nel sito ufficiale o nel Microsoft Store, non devi
 
 1- Crea un nuovo progetto.
 
-2- Coppia il contenuto del file valigaPuzzle.cpp ed incollalo nel nuovo progetto che hai creato.
+2- Copia il contenuto del file valigaPuzzle.cpp ed incollalo nel nuovo progetto che hai creato.
 
 3- Installa le librerie necessarie per il corretto funzionamento del codice, se preferisci nella cartella /Librerie sono presenti i file.zip delle varie librerie da installare.
 
